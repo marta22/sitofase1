@@ -1,0 +1,41 @@
+.cover{
+    width: 100%;
+    background-color: #272727;
+    padding: 5em 0 5em 0;
+}
+#titolo{
+    height: 100%;
+    width: 100%;
+}
+
+div {
+	display:block;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.po-title {
+    font-family: "Butler", serif;
+    color: #FF4A60;
+    font-size: 4em;
+    line-height: 1.3em;
+    text-align: center;
+    z-index: 9999;
+	margin-top:300px;
+    
+}
+.po-subtitle {
+    font-family: "Poppins";
+    font-size: 1em;
+    margin: auto;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 40em;
+    text-align: center;
+    z-index: 9999;
+}
+

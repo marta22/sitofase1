@@ -1,0 +1,277 @@
+nav {
+	background-color: black;
+}
+
+.titolo {
+	padding-top: 220px;
+}
+
+.titolo1 {
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Anton';
+	letter-spacing: 2px;
+	font-size: 100px;
+}
+
+.sottotitolo1 {
+	text-transform: uppercase;
+	font-family: 'Oswald';
+	color: white;
+	font-size: 40px;
+	letter-spacing: 4px;
+	line-height: 0.1;
+}
+
+.sottotitolo2 {
+	text-transform: uppercase;
+	font-family: 'Oswald';
+	color: #CD1719;
+	font-size: 20px;
+	padding-top: 18px;
+	
+}
+
+.titolo2 {
+	color: #CD1719;
+    font-family: 'Anton';
+    font-size: 60px;
+    font-weight: normal;
+	padding-top: 40px;
+	text-transform: uppercase;
+}
+
+.sottotitolo {
+	color: white;
+    font-size: 1.5em;
+    text-transform: uppercase;
+	font-family: 'Oswald';
+	font-weight: lighter;
+}
+
+.titolo3 {
+	color: black;
+    font-family: 'Anton';
+    font-size: 60px;
+    font-weight: normal;
+	padding-top: 40px;
+	margin-left: 920px;
+	text-transform: uppercase;
+	font-size: 60px;
+}
+
+.sottotitolo3 {
+	color: #CD1719;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	margin-left: 1200px;
+	font-family: 'Oswald';
+}
+
+h1 span {
+	color: #CD1719;
+}
+
+.titolo4 {
+	color: black;
+    font-family: 'Anton';
+    font-size: 60px;
+	padding-top: 40px;
+	margin-left: 30px;
+	text-transform: uppercase;
+}
+
+.sottotitolo4 {
+	color: black;
+    font-size: 1.5em;
+    text-transform: uppercase;
+	margin-left: 30px;
+	font-family: 'Oswald';
+}
+
+.titolo5 {
+	color: #CD1719;
+    font-family: 'Anton';
+    font-size: 60px;
+	padding-top: 40px;
+	margin-left: 970px;
+	text-transform: uppercase;
+}
+
+.sottotitolo5 {
+	color: white;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	padding-left: 1160px;
+	font-family: 'Oswald';
+}
+
+#text {
+	color: white;
+}
+
+.titolo6 {
+	color: black;
+    font-family: 'Anton';
+    font-size: 60px;
+	padding-top: 40px;
+	margin-left: 30px;
+	text-transform: uppercase;
+}
+
+.sottotitolo6 {
+	color: white;
+    font-size: 1.5em;
+    text-transform: uppercase;
+	margin-left: 30px;
+	font-family: 'Oswald';
+}
+
+.titolo7 {
+	color: black;
+    font-family: 'Anton';
+    font-size: 60px;
+	padding-top: 40px;
+	margin-right: 80px;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.sottotitolo7 {
+	color: #CD1719;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	margin-right: 80px;
+	font-family: 'Oswald';
+	text-align: right;
+}
+
+.titolo8 {
+	color: #CD1719;
+    font-family: 'Anton';
+    font-size: 60px;
+	padding-top: 40px;
+	margin-left: 30px;
+	text-transform: uppercase;
+}
+
+.sottotitolo8 {
+	color: white;
+    font-size: 1.5em;
+    text-transform: uppercase;
+	margin-left: 30px;
+	font-family: 'Oswald';
+}
+
+.stem {
+	color: black;
+	margin-top: 20px;
+	padding-left: 30px;
+}
+
+.saga {
+	color: white;
+	padding-left: 20px;
+	padding-top: 60px;
+}
+	
+
+#upper {
+	text-transform: uppercase;
+}
+
+
+body {
+margin: 0;
+width: 100%;
+}
+
+#cover {
+	width: 100%;
+	min-height: 100%;
+	background: url('../img/cover.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: black;
+	background-size: 560px 600px;
+}
+
+a {
+	text-transform: uppercase;
+	font-size: 1em;
+	color: white;
+}
+
+a:hover {
+	color: #CD1719;
+}
+
+#intro.container-fluid {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+
+.introduzione {
+	padding-top: 100px;
+	color: white;
+}
+
+
+#features.container-fluid {
+	width: 100%;
+	height: 100%;
+	background-color: whitesmoking;
+}
+
+#pricing.container-fluid {
+	width: 100%;
+	height: 100%;
+	background-color: gray;
+}
+
+#about.container-fluid {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+
+#fields.container-fluid {
+	width: 100%;
+	height: 100%;
+	background-color: #CD1719;
+}
+
+#employed.container-fluid {
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+#steps.container-fluid {
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+
+footer {
+	background-color: whitesmoking;
+}
+
+footer.names {
+    padding-left: 40px;
+}
+
+footer .loghi {
+    text-align: center;
+	padding-top: 35px;
+	padding-bottom: 30px;
+}
+
+h4 {
+	margin-top: 35px;
+	margin-bottom: 10px;
+	font-family: 'Anton';
+	text-transform: uppercase;
+}
+

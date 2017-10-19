@@ -1,0 +1,23 @@
+
+INSERIRE FILE ILLUSTRATOR NEL SITO INTERNET
+file-esporta-SVG (deselezionare "usa artboards") 
+Esce un menu: SVG Options - Internal CSS - Font: SVG - Images: Preserve- Object IDs: Layer Names- selezionare Responsive e cliccare su Show code
+
+Seleziono il codice, lo copio e aggiungo 
+<section class="container">
+  <div class="row">
+     <div class="col-12">
+       <svg id="bumpchart".........
+                  COPIARE QUI IL CODICE!!
+
+     </div>
+  </div>
+</section>
+
+
+USO IL CSS PER INTERAGIRE CON LA VISUALIZZAZIONE
+
+#bumpchart:hover #countries g {
+     opacity: 0.3; 
+}
+
